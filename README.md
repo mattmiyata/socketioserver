@@ -1,6 +1,8 @@
 
 # Chatter
-This is a simple chat app using socket.io and react
+This is the server code for the simple chat app using socket.io and react
+
+Note: the vite compiled code for front end is located in the 'public' folder
 
 Server side is used to ingest socket requests. 
 Session information is kept to client side.  
